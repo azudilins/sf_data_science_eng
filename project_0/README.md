@@ -11,9 +11,6 @@
 ### Project Description
 Guess the number guessed by the computer in the minimum number of attempts.
 
-:arrow_up: [to the table of contents](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Table-of-contents)
-
-
 ### What case are we solving?
 We need to write a program that guesses a number in the minimum number of attempts.
 
@@ -27,8 +24,16 @@ Results are assessed by the average number of attempts out of 1000 repetitions.
 **What we practice**  
 Learning to write good code in Python.
 
-
 ### Brief information about the data
+...
+
+### Stages of work on the project
+...
+
+### Result
+...
+
+### Conclusions
 ...
 
 :arrow_up: [to the table of contents](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Table-of-contents)
