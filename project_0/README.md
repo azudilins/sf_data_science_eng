@@ -11,7 +11,7 @@
 ### Project Description
 Guess the number guessed by the computer in the minimum number of attempts.
 
-:arrow up: [to the table of contents](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Table-of-contents)
+:arrow_up: [to the table of contents](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Table-of-contents)
 
 
 ### What case are we solving?
@@ -31,4 +31,4 @@ Learning to write good code in Python.
 ### Brief information about the data
 ...
 
-:arrow up: [to the table of contents](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Table-of-contents)
+:arrow_up: [to the table of contents](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Table-of-contents)
