@@ -1,12 +1,12 @@
 # Project 0. Guess the number
 
 ## Table of contents
-[1. Project Description](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Project-Description)  
-[2. What case are we solving?](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#What-case-are-we-solving)  
-[3. Brief information about the data](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Brief-information-about-the-data)  
-[4. Stages of work on the project](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Stages-of-work-on-the-project)  
-[5. Result](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Result)  
-[6. Conclusions](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Conclusions)
+1. [Project Description](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Project-Description)  
+2. [What case are we solving?](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#What-case-are-we-solving)  
+3. [Brief information about the data](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Brief-information-about-the-data)  
+4. [Stages of work on the project](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Stages-of-work-on-the-project)  
+5. [Result](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Result)  
+6. [Conclusions](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Conclusions)
 
 ### Project Description
 Guess the number guessed by the computer in the minimum number of attempts.
