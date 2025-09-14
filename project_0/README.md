@@ -16,13 +16,16 @@ We need to write a program that guesses a number in the minimum number of attemp
 
 **Competition conditions:**
 - The computer thinks of a number from 0 to 100, and we have to guess it. By "guess", we mean "write a program that guesses the number".
-- The algorithm takes into account information about whether the random number is greater or less than what we need.
+- The algorithm takes into account information about whether the entered number is greater or less than what we need.
+- It is necessary to ensure that the program guesses the number in less than 20 attempts.
 
 **Quality metrics**  
 Results are assessed by the average number of attempts out of 1000 repetitions.
 
-**What we practice**  
-Learning to write good code in Python.
+**What we practice**
+- Learning to write good code in Python.
+- Learning to work with IDE.
+- Learning to work with GitHub.
 
 ### Brief information about the data
 ...
@@ -30,10 +33,14 @@ Learning to write good code in Python.
 ### Stages of work on the project
 ...
 
-### Result
-...
+### Result  
+Algorithm guesses the number on average in 5 attempts.
 
 ### Conclusions
-...
+- The algorithm has been implemented and the solution has been posted in the GitHub repository.
+- The number of attempts has been correctly taken into account, and the minimum possible average value for the given range has been achieved.
+- There are docstrings for functions and comments, the code complies with pep-8 requirements.
+- Dependencies are recorded in the corresponding requirements.txt files.
+- The project description is presented in the README.md file.
 
 :arrow_up: [to the table of contents](https://github.com/azudilins/sf_data_science_eng/tree/main/project_0/README.md#Table-of-contents)
