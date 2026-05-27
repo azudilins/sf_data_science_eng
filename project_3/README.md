@@ -2,8 +2,8 @@
 
 ## Table of Contents
 - [1. Project Description](https://github.com/azudilins/sf_data_science_eng/tree/main/project_3/README.md#Project-Description)
-- [2. What case are we solving?](https://github.com/azudilins/sf_data_science_eng/tree/main/project_3/README.md#Which-case-are-we-solving?)
-- [3. Data Summary](https://github.com/azudilins/sf_data_science_eng/tree/main/project_3/README.md#Data Summary)
+- [2. What case are we solving?](https://github.com/azudilins/sf_data_science_eng/tree/main/project_3/README.md#What-case-are-we-solving)
+- [3. Data Summary](https://github.com/azudilins/sf_data_science_eng/tree/main/project_3/README.md#Data-Summary)
 - [4. Project Stages](https://github.com/azudilins/sf_data_science_eng/tree/main/project_3/README.md#Project-Stages)
 - [5. Result](https://github.com/azudilins/sf_data_science_eng/tree/main/project_3/README.md#Result)
 - [6. Conclusions](https://github.com/azudilins/sf_data_science_eng/tree/main/project_3/README.md#Conclusions)
